@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterComponent debe de hacer match con el snapshot 1`] = `
+<div
+  id="root1"
+>
+  <h1>
+    Counter 10
+  </h1>
+  <hr />
+  <button
+    class="btn btn-primary mx-1"
+  >
+    +1
+  </button>
+  <button
+    class="btn btn-primary mx-1"
+  >
+    -1
+  </button>
+</div>
+`;
